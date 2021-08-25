@@ -3,7 +3,7 @@ from shareplum import Office365
 
 # get data from configuration
 username = '......'
-password =	'......'
+password = '......'
 site_name = '......'
 base_path = 'https://....'
 doc_library = 'data'
